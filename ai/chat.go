@@ -1,7 +1,7 @@
 package main
 
 import (
-	"ai-cli/chat"
+	"ai/chat"
 	"flag"
 	"fmt"
 	"os"
